@@ -1,1 +1,7 @@
-print(123)
+local wefewfdnhewdhewfhewbfhnwehfvbwef = 'Anti '
+
+local asdhqwfqhwhdqwdbhqwfnhqwbdhqwnfdqwgduhjqwfhqwbdnqw = 'Kick '
+
+local kwegfuwehfuiwehyfhqweidhyewgfjeqwdhuewbhfnwehfbwhenfhwe = 'Enabled !'
+
+warn(wefewfdnhewdhewfhewbfhnwehfvbwef .. asdhqwfqhwhdqwdbhqwfnhqwbdhqwnfdqwgduhjqwfhqwbdnqw .. kwegfuwehfuiwehyfhqweidhyewgfjeqwdhuewbhfnwehfbwhenfhwe)
